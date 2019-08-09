@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematica", "Matematica\Matematica.csproj", "{EDF994DD-9655-4CED-9A5B-5847E1C9F6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatematicaTestes", "MatematicaTestes\MatematicaTestes.csproj", "{D0BC62A0-C7D6-4F18-99E2-A6432520D7E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF994DD-9655-4CED-9A5B-5847E1C9F6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF994DD-9655-4CED-9A5B-5847E1C9F6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF994DD-9655-4CED-9A5B-5847E1C9F6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF994DD-9655-4CED-9A5B-5847E1C9F6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0BC62A0-C7D6-4F18-99E2-A6432520D7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BC62A0-C7D6-4F18-99E2-A6432520D7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BC62A0-C7D6-4F18-99E2-A6432520D7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BC62A0-C7D6-4F18-99E2-A6432520D7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11EEFCE8-E0EB-4994-8708-5B8F3AEDD814}
+	EndGlobalSection
+EndGlobal
